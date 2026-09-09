@@ -4,7 +4,7 @@ Sou **Desenvolvedor Front-End** , com experiência prática desde 2019 em regime
 
  Atualmente a desenvolver o **DigitalMarket**, uma plataforma de e-commerce fullstack
  A estudar Programação em Web, Dispositivos e Aplicações Móveis no **Instituto Politécnico Jean Piaget do Sul**
- Também a melhorar o meu inglês (Wall Street English) para poder trabalhar em equipas internacionais
+ Também a melhorar o meu inglês  para poder trabalhar em equipas internacionais
  Gosto de falar sobre front-end, boas práticas de UI/UX e otimização de performance web
  Motivado a integrar uma equipa de TI onde possa crescer profissionalmente e contribuir com rigor técnico e proatividade
 - 📫 Como contactar: firminopedro04@gmail.com
