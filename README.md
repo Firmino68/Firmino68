@@ -1,6 +1,6 @@
 # Olá, sou o Pedro Firmino 👋
 
-Sou **Desenvolvedor Front-End**, de Setúbal, Portugal, com experiência prática desde 2019 em regime freelancer e em ambiente de startup. Gosto de transformar ideias em interfaces funcionais e intuitivas — e estou sempre à procura de aprender mais.
+Sou **Desenvolvedor Front-End** , com experiência prática desde 2019 em regime freelancer e em ambiente de startup. Gosto de transformar ideias em interfaces funcionais e intuitivas — e estou sempre à procura de aprender mais.
 
  Atualmente a desenvolver o **DigitalMarket**, uma plataforma de e-commerce fullstack
  A estudar Programação em Web, Dispositivos e Aplicações Móveis no **Instituto Politécnico Jean Piaget do Sul**
